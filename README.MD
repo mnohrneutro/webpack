@@ -4,7 +4,7 @@
 * [A Beginner’s Guide to Webpack - SitePoint](https://www.sitepoint.com/webpack-beginner-guide/)
 
 ## STEP BY STEP PICTURE DEMO
-![STEP 1](/DEMO_IMAGES/1.PNG)
+![STEP 1](1.PNG)
 
 ![STEP 2](/DEMO_IMAGES/2.PNG)
 
