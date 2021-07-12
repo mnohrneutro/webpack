@@ -3,15 +3,15 @@
 * [Get Stared](https://webpack.js.org/guides/getting-started/)
 * [A Beginner’s Guide to Webpack - SitePoint](https://www.sitepoint.com/webpack-beginner-guide/)
 
-## STEP BY STEP PICTURE DEMO
-![STEP 1](1.PNG)
+### STEP BY STEP PICTURE DEMO
+1. ![STEP 1](1.PNG)
 
-![STEP 2](/DEMO_IMAGES/2.PNG)
+1. ![STEP 2](/DEMO_IMAGES/2.png)
 
-![STEP 3](/DEMO_IMAGES/3.PNG)
+1. ![STEP 3](/DEMO_IMAGES/3.png)
 
-![STEP 4](/DEMO_IMAGES/4.PNG)
+1. ![STEP 4](/DEMO_IMAGES/4.png)
 
-![STEP 5](/DEMO_IMAGES/5.PNG)
+1. ![STEP 5](/DEMO_IMAGES/5.png)
 
-![STEP 6](/DEMO_IMAGES/6.PNG)
+1. ![STEP 6](/DEMO_IMAGES/6.png)
